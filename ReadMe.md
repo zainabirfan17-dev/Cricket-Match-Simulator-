@@ -52,23 +52,30 @@ Thousands of simulated matches (simulate_many_matches(n)) determine long-run pro
 ## Example Output
 
   === TOSS ===
+  
   India won the toss and decided to bat first.
   
   ----------- 'FIRST INNINGS' -------------
+  
   Team India will bat first and give a target to Pakistan.
   
   India scored 165/6 in 20 overs.
+  
   Target for Pakistan: 166
   
   --------------- 'SECOND INNINGS' ---------------------
+  
   Pakistan scored 170/4 in 18.3 overs.
+  
   Pakistan wins by 6 wickets!
   
   Calculated chances before simulation:
+  
   Pakistan: 46.89%
   India: 53.11%
   
   Simulated 1000 T20 Matches between Pakistan and India:
+  
   Pakistan Win Probability: 45.80%
   India Win Probability: 54.20%
 
